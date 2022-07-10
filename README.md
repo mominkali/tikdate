@@ -2,7 +2,7 @@
 tiktok account date 
 
 
-install in kali linux
+install in kali linux :
  
 <pre class="notranslate"
 <code>sudo git clone https://github.com/mominkali/tikdate.git
