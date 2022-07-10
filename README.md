@@ -1,6 +1,7 @@
 # tikdate
 tiktok account date 
 
+![This is an image](https://i.postimg.cc/dVRZWnZc/Screenshot-2022-07-10-07-49-57.png)
 
 install in kali linux :
  
