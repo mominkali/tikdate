@@ -3,18 +3,23 @@ from datetime import datetime
 import requests
 print("""
 
-      llllllll
-    l         l
-    l         ll
-    l         ll
-    l         l
-     lllllllllll           llllllll        ll llllllll       lllllllllll
-    l           l        ll        ll      lll       ll               ll
-    l           ll      ll          ll     ll                      ll
-    l           ll      ll          ll     ll                   ll
-    l           l        ll        ll      ll                ll
-     lllllllllll           lllllllll       ll                lllllllllll
+
      
+
+   /$$     /$$ /$$             /$$             /$$              
+  | $$    |__/| $$            | $$            | $$              
+ /$$$$$$   /$$| $$   /$$  /$$$$$$$  /$$$$$$  /$$$$$$    /$$$$$$ 
+|_  $$_/  | $$| $$  /$$/ /$$__  $$ |____  $$|_  $$_/   /$$__  $$
+  | $$    | $$| $$$$$$/ | $$  | $$  /$$$$$$$  | $$    | $$$$$$$$
+  | $$ /$$| $$| $$_  $$ | $$  | $$ /$$__  $$  | $$ /$$| $$_____/
+  |  $$$$/| $$| $$ \  $$|  $$$$$$$|  $$$$$$$  |  $$$$/|  $$$$$$$
+   \___/  |__/|__/  \__/ \_______/ \_______/   \___/   \_______/
+                                                                
+                                                                
+                                                                
+
+
+  
      
      [ Made By M.Shono ]
      [ + ] Instagram : momin_shono
