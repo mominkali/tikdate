@@ -14,8 +14,8 @@ print("""
    \___/  |__/|__/  \__/ \_______/ \_______/   \___/   \_______/
                                                                 
                                                                 
-     [ Made By M.Shono ]
-     [ + ] Instagram : momin_shono
+     [ Made By M.Sh ]
+     [ + ] Instagram : c.si_
 
 
 """)
