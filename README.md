@@ -1,4 +1,6 @@
 # tikdate
+need update 
+{didn't work}
 tiktok account date claimer
 
 ![This is an image](https://i.postimg.cc/yN0CVcRC/111.png)
