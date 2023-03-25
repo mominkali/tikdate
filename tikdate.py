@@ -15,7 +15,8 @@ print("""
                                                                 
                                                                 
      [ Made By M.Sh ]
-     [ + ] Instagram : c.si_
+      [ + ] Instagram : 2breeg
+      [ + ] tiktok : 0l08
 
 
 """)
